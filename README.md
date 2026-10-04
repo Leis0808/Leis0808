@@ -37,6 +37,7 @@
 ---
 
 ## 📂 Проекты
+- [pp_aqaSwagLabs](https://github.com/Leis0808/pp_aqaSwagLabs) — Автотесты для демо-сайта SwagLabs на Python + Playwright.
 
 <!-- PROJECTS_START -->
 <!-- Этот блок обновляется автоматически -->
